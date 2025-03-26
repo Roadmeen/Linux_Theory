@@ -51,11 +51,3 @@ ___
 - [Как подключиться к серверу по SSH с помощью пароля или ключа](https://timeweb.com/ru/community/articles/kak-podklyuchitsya-k-serveru-cherez-ssh-po-parolyu-ili-klyuchu)
   
 - [Linux - SSH подключение к удаленному Linux с Linux и Windows](https://www.youtube.com/watch?v=JdpcvDCxGfQ)
-___
-### Практика
-
-Главное посмотреть сертификации и опираясь на них проверять свои знания и получать новые
-- [Linux Professional Institute Certification](https://ru.m.wikipedia.org/wiki/Linux_Professional_Institute_Certification)
-- [Вводный курс по администрированию Linux-LPIC](https://www.youtube.com/playlist?list=PLmxB7JSpraiep6kr802UDqiAIU-76nGfc)
-- [Как работает Linux-Дмитрий Кетов](https://www.youtube.com/playlist?list=PLHHm04DXWzeKZycf_ZuBgxWdVBnrjE_mj)
-- [Основы GNU/Linux и подготовка к RHCSA](https://www.youtube.com/playlist?list=PLisqB92_b4TlQH3jVGf6lrFMVqalCTjAQ)
